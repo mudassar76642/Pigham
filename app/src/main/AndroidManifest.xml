@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Pigham">
         <activity
+            android:name=".mainmenu"
+            android:exported="false" />
+        <activity
+            android:name=".verfifycode"
+            android:exported="false" />
+        <activity
             android:name=".signup"
             android:exported="false" />
         <activity

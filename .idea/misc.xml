@@ -4,8 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Nimtrix/Pigham/app/src/main/res/drawable/backgroundgradiant.xml" value="0.1824074074074074" />
+        <entry key="..\:/Nimtrix/Pigham/app/src/main/res/drawable/newgradiant.xml" value="0.17604166666666668" />
         <entry key="..\:/Nimtrix/Pigham/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Nimtrix/Pigham/app/src/main/res/layout/activity_mainmenu.xml" value="0.17552083333333332" />
         <entry key="..\:/Nimtrix/Pigham/app/src/main/res/layout/activity_signup.xml" value="0.1" />
+        <entry key="..\:/Nimtrix/Pigham/app/src/main/res/layout/activity_verfifycode.xml" value="0.14855072463768115" />
       </map>
     </option>
   </component>
